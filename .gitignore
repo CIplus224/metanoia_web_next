@@ -41,6 +41,9 @@ classroom-deploy.tar.gz
 /classroom-deploy
 frontend-project-structure.md
 
+# SSL certs
+nginx/certs/
+
 # vercel
 .vercel
 
